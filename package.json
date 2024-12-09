@@ -28,10 +28,6 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@astrojs/node": "^9.0.0",
-    "@astrojs/react": "^3.6.2",
-    "@astrojs/sitemap": "^3.2.0",
-    "@astrojs/tailwind": "^5.1.2",
     "@fingerprintjs/fingerprintjs": "^4.5.0",
     "@nanostores/react": "^0.8.0",
     "@napi-rs/image": "^1.9.2",
